@@ -2,7 +2,7 @@
 //  MVVM_API_Data_FetchApp.swift
 //  MVVM API Data Fetch
 //
-//  Created by Md Khorshed Alam on 28/7/24.
+//  Created by Masrafi Anam on 28/7/24.
 //
 
 import SwiftUI
